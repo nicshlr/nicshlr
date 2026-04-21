@@ -8,8 +8,8 @@
 
 ---
 
-### 🧠 Currently Learning
-- Flutter
+### 🧠 Currently Working with:
+- Flutter, React, Java
 
 ### 💼 Currently Working On
 - Online Banking Systems 🏦

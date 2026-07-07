@@ -76,19 +76,6 @@ Built reliable, user-critical healthcare applications with Angular.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nicshlr&theme=github_dark" alt="Nico's GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nicshlr&theme=github_dark" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nicshlr&hide_border=true&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&theme=tokyonight" alt="GitHub streak" />
-</p>
-
----
-
 ## 🤝 Connect
 
 <p align="center">
